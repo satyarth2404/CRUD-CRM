@@ -3,6 +3,6 @@
 
 - Entity Class Used - (Employee.class)
 - Employee.java (Object) TO employee1 (Table) Mapping
-- Employee management througg MainApp.java
+- Employee management through MainApp.java
 
 
